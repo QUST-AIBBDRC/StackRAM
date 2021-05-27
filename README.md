@@ -28,7 +28,7 @@ StackRAM: a cross-species method for identifying RNA N6-methyladenosine sites ba
    Elastic_Net.py represents the Elastic Net.
      
 ** classifier:
-   AdaBoost.py is the implementation of AdaBoost.
+   AdaBoost.py is the implementation of AdaBoost.###
    ERT.py is the implementation of ERT.
    KNN.py is the implementation of KNN.
    XGBoost.py is the implementation of XGBoost.
