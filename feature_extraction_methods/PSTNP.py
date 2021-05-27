@@ -2,7 +2,7 @@ import re,sys
 import numpy as np
 import pandas as pd
 
-def readRNAFasta(file):
+def readRNAFasta(file):##
 	with open(file) as f:
 		records = f.read()
 
