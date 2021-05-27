@@ -23,7 +23,7 @@ def get_shuffle(dataset,label):
     #shuffle data
     index = [i for i in range(len(label))]
     np.random.shuffle(index)
-    dataset = dataset[index]
+    dataset = dataset[index]###
     label = label[index]
     return dataset,label  
 sepscores=[]
