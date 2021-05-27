@@ -21,7 +21,7 @@ import utils.tools as utils
 data_=pd.read_csv(r'S_Elastic_net.csv')
 data=np.array(data_)
 dataset=data[:,1:]
-[m1,n1]=np.shape(dataset)
+[m1,n1]=np.shape(dataset)#
 label1=np.ones((int(m1/2),1))#Value can be changed
 label2=np.zeros((int(m1/2),1))
 label=np.append(label1,label2)
