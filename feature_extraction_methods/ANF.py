@@ -4,7 +4,7 @@ from collections import Counter
 import pandas as pd
 import numpy as np
 import itertools
-import platform
+import platform#
 from math import sqrt
 from math import pow
 from collections import Counter
