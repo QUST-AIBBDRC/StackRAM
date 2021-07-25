@@ -7,7 +7,7 @@ StackRAM: a cross-species method for identifying RNA N6-methyladenosine sites ba
 * scipy
 * scikit-learn
 
-##Guiding principles:
+###Guiding principles:
 **The dataset file contains three categories N6-methyladenosine sites datasets, which contain training dataset and independent test dataset.
 
 **feature extraction methods:
