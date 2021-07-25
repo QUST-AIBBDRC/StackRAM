@@ -22,4 +22,4 @@ shu=scale(data)
 new_X=LLE(shu,n_components=165)
 shu=new_X
 data_csv = pd.DataFrame(data=shu)
-data_csv.to_csv('S_LLE.csv')
+data_csv.to_csv('S_LLE.csv')#
